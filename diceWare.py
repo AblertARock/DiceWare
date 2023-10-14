@@ -95,3 +95,5 @@ if havePyperclip == True:
             c) "pip install gtk" to install the gtk Python module.
             d) "pip install PyQt4" to install the PyQt4 Python module.
         If you're running on chromeOS, you're screwed. (Like me!)""")
+
+blank = input("Hit enter to close the program.")
