@@ -71,7 +71,7 @@ except:
 
 for i in range(wordNum):
     diceRoll = roll()
-    with open("/workspaces/DiceWare/EFFWordlist", "r") as EFFWordlist:
+    with open("./EFFWordlist", "r") as EFFWordlist:
         lines = EFFWordlist.readlines()
         for line in lines:
             if line.find(diceRoll) != -1:

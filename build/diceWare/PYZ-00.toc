@@ -1,4 +1,4 @@
-('C:\\Users\\craig_3v04aan\\OneDrive\\Documents\\VSCRepos\\DiceWare\\build\\diceWare\\PYZ-00.pyz',
+('C:\\Users\\craig_3v04aan\\Documents\\VSCRepos\\DiceWare\\build\\diceware\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.1520.0_x64__qbz5n2kfra8p0\\Lib\\_compat_pickle.py',
